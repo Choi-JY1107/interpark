@@ -1,0 +1,7 @@
+# 파이썬 관련
+venv/
+
+# 빌드 관련
+build/
+dist/
+main.spec
