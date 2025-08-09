@@ -1,5 +1,6 @@
 # 파이썬 관련
 venv/
+__pycache__/
 
 # 빌드 관련
 build/

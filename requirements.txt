@@ -1,0 +1,15 @@
+altgraph==0.17.4
+macholib==1.16.3
+packaging==25.0
+pyinstaller==6.13.0
+pyinstaller-hooks-contrib==2025.4
+setuptools==80.8.0
+tk==0.1.0
+selenium==4.27.1
+webdriver-manager==4.0.1
+requests==2.32.3
+pillow==11.1.0
+pytesseract
+opencv-python==4.10.0.84
+numpy==1.26.4
+beautifulsoup4==4.12.3

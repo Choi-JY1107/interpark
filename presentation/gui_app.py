@@ -1,12 +1,9 @@
 import tkinter as tk
+from presentation.views.main_window import MainWindow
 
 
 def launch_gui():
+    """GUI 애플리케이션 실행"""
     root = tk.Tk()
-    root.title("인터파크 자동 예매기")
-    root.geometry("400x300")
-
-    label = tk.Label(root, text="안녕하세요", font=("맑은 고딕", 14))
-    label.pack(pady=100)
-
+    app = MainWindow(root)
     root.mainloop()
